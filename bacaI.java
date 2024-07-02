@@ -1,4 +1,4 @@
-//basic operations on binary search tree, most of them is iterative
+//Basic operations on binary search tree, most of them are iterative.
 
 import java.util.Scanner;
 public class Source {
